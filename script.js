@@ -6,7 +6,7 @@ function toggle(){
 /* LOGIN → DOMAIN REDIRECT */
 function login(){
   // 👇👇 YAHAN APNA DOMAIN PASTE KARO 👇👇
-  window.location.href = "https://yourdomain.com";
+  window.location.href = "https://victuscloud.xyz/pricing";
 }
 
 /* REGISTER → DEMO WORKING */
@@ -21,4 +21,5 @@ function register(){
     alert("Register successful (demo)");
     toggle(); // auto login page
   }
+
 }
